@@ -6,3 +6,6 @@
 -Par div.textContent("Hello World!")
 -Par div.innerHTML("Hello World"!)
 -Par `${text}`
+
+# Lien Tuto Youtube
+https://www.youtube.com/watch?v=yzxmZlfM5Zs
