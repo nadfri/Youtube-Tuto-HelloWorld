@@ -1,4 +1,5 @@
-# Tuto-HelloWorld - De ma chaine Youtube
+# Tuto-HelloWorld
+## - Code du tuto de ma chaine Youtube
 5 facons de faire un "Hello World" en Javascript
 
 -Par le console.log("Hello World!")
